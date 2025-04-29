@@ -1,0 +1,197 @@
+{
+    "data":[{
+        "id":"1",
+        "name":"Суши ласос",
+        "sostav":"ласось сыр огурец",
+        "avatar":"./sushi.webp",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"2",
+        "name":"Суши ласос",
+        "sostav":"ласось сыр огурец",
+        "avatar":"./sushi.webp",
+        
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"3",
+        "name":"Суши ласос",
+        "avatar":"./sushi.webp",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"4",
+        "name":"Суши ласос",
+        "avatar":"./sushi.webp",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"5",
+        "name":"Суши ласос",
+        "avatar":"./sushi.webp",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    }, {
+        "id":"6",
+        "name":"Суши ласос",
+        "avatar":"./sushi.webp",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+ {
+        "id":"7",
+        "name":"Суши ласос",
+        "avatar":"./sushi.webp",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"8",
+        "name":"Суши ласос",
+        "avatar":"./sushi.webp",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"9",
+        "name":"Сok",
+        "avatar":"./cok.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"10",
+        "name":"Сok",
+        "avatar":"./cok.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"11",
+        "name":"Сok",
+        "avatar":"./cok.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },{
+        "id":"12",
+        "name":"Сok",
+        "avatar":"./cok.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"12",
+        "name":"Сok",
+        "avatar":"./cok.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"13",
+        "name":"Сok",
+        "avatar":"./cok.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"14",
+        "name":"Сok",
+        "avatar":"./cok.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"15",
+        "name":"Сok",
+        "avatar":"./cok.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"16",
+        "name":"Сok",
+        "avatar":"./desert.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"17",
+        "name":"Сok",
+        "avatar":"./desert.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"15",
+        "name":"Сok",
+        "avatar":"./desert.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"15",
+        "name":"Сok",
+        "avatar":"./desert.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"15",
+        "name":"Сok",
+        "avatar":"./desert.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"15",
+        "name":"Сok",
+        "avatar":"./desert.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"15",
+        "name":"Сok",
+        "avatar":"./desert.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    },
+    {
+        "id":"16",
+        "name":"Сok",
+        "avatar":"./desert.jpg",
+        "sostav":"ласось сыр огурец",
+        "price":"45",
+         "status":false
+    }
+    
+    
+
+]   
+}
