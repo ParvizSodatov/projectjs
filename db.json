@@ -1,222 +1,219 @@
 {
-    "data":[{
-        "id":"1",
-        "name":"Суши ласос",
-        "sostav":"ласось сыр огурец",
-        "avatar":"./lasos.webp",
-        "price":"45",
-         "status":false,
-         "title":"sushi"
-         
+  "data": [
+    {
+      "id": "1",
+      "name": "Суши ласос",
+      "sostav": "ласось сыр огурец",
+      "avatar": "./lasos.webp",
+      "price": "45",
+      "status": false,
+      "title": "sushi"
     },
     {
-        "id":"2",
-        "name":"Ролл канада",
-        "sostav":"угорь сыр огурец",
-        "avatar":"./canada.avif",
-        "price":"50",
-         "status":false,
-         "title":"sushi"
+      "id": "2",
+      "avatar": "./canada.avif",
+      "name": "Ролл Канада",
+      "sostav": "угорь сыр огурец",
+      "price": "угорь сыр огурец",
+      "status": false
     },
     {
-        "id":"3",
-        "name":"Ролл Нью Йорк",
-        "avatar":"./newYourk.webp",
-        "sostav":"Авокадо сыр огурец",
-        "price":"60",
-         "status":false,
-         "title":"sushi"
+      "id": "3",
+      "name": "Ролл Нью Йорк",
+      "avatar": "./newYourk.webp",
+      "sostav": "Авокадо сыр огурец",
+      "price": "60",
+      "status": false,
+      "title": "sushi"
     },
     {
-        "id":"4",
-        "name":"Суши тунец",
-        "avatar":"./тунец.webp",
-        "sostav":"тунец, рысь, огурец",
-        "price":"30",
-         "status":false,
-         "title":"sushi"
+      "id": "4",
+      "name": "Суши тунец",
+      "avatar": "./тунец.webp",
+      "sostav": "тунец, рысь, огурец",
+      "price": "30",
+      "status": false,
+      "title": "sushi"
     },
     {
-        "id":"5",
-        "name":"Ролл креветка",
-        "avatar":"./креветка.webp",
-        "sostav":"креветка сыр огурец",
-        "price":"65",
-         "status":false,
-         "title":"sushi"
-    }, {
-        "id":"6",
-        "name":"Ролл с икрой",
-        "avatar":"./икра.jpg",
-        "sostav":"икра,сыр,огурец,курица",
-        "price":"50",
-         "status":false,
-         "title":"sushi"
-    },
- {
-        "id":"7",
-        "name":"Ролл темпура",
-        "avatar":"./роллтемпура.webp",
-        "sostav":"Жареный ласось сыр огурец",
-        "price":"75",
-         "status":false,
-         "title":"sushi"
+      "id": "5",
+      "name": "Ролл креветка",
+      "avatar": "./креветка.webp",
+      "sostav": "креветка сыр огурец",
+      "price": "65",
+      "status": false,
+      "title": "sushi"
     },
     {
-        "id":"8",
-        "name":"Ролл запеченный",
-        "avatar":"./запеченый.webp",
-        "sostav":"Курыца,сыр,огурец,сыр-голландский",
-        "price":"40",
-         "status":false,
-         "title":"sushi"
+      "id": "6",
+      "name": "Ролл с икрой",
+      "avatar": "./икра.jpg",
+      "sostav": "икра,сыр,огурец,курица",
+      "price": "50",
+      "status": false,
+      "title": "sushi"
     },
     {
-        "id":"9",
-        "name":"Мохито Lemon",
-        "avatar":"./mokhito.webp",
-        "sostav":"Лемонный сироп,лёд,спрайт ",
-        "price":"20",
-         "status":false,
-         "title":"drinks"
+      "id": "7",
+      "name": "Ролл темпура",
+      "avatar": "./роллтемпура.webp",
+      "sostav": "Жареный ласось сыр огурец",
+      "price": "75",
+      "status": false,
+      "title": "sushi"
     },
     {
-        "id":"10",
-        "name":"Клубныйчий Мохито",
-        "avatar":"./клубника.jpg",
-        "sostav":"клубнычный сироп,лёд,спрайт",
-        "price":"25",
-         "status":false,
-          "title":"drinks"
+      "id": "8",
+      "name": "Ролл запеченный",
+      "avatar": "./запеченый.webp",
+      "sostav": "Курыца,сыр,огурец,сыр-голландский",
+      "price": "40",
+      "status": false,
+      "title": "sushi"
     },
     {
-        "id":"11",
-        "name":"Мандаринный Мохито",
-        "avatar":"./мандарин.jpg",
-        "sostav":"Мандаринный Сироп",
-        "price":"20",
-         "status":false,
-          "title":"drinks"
-    },{
-        "id":"12",
-        "name":"Мохито Арбуз",
-        "avatar":"./АрбузЛимон.webp",
-        "sostav":"Арбуз,Лимон,лёд",
-        "price":"25",
-         "status":false,
-          "title":"drinks"
+      "id": "9",
+      "name": "Мохито Lemon",
+      "avatar": "./mokhito.webp",
+      "sostav": "Лемонный сироп,лёд,спрайт ",
+      "price": "20",
+      "status": false,
+      "title": "drinks"
     },
     {
-        "id":"12",
-        "name":"Мохито-Виски",
-        "avatar":"./МохитоВиски.jpg",
-        "sostav":"Мохито-Виски,лёд",
-        "price":"35",
-         "status":false,
-          "title":"drinks"
+      "id": "10",
+      "name": "Клубныйчий Мохито",
+      "avatar": "./клубника.jpg",
+      "sostav": "клубнычный сироп,лёд,спрайт",
+      "price": "25",
+      "status": false,
+      "title": "drinks"
     },
     {
-        "id":"13",
-        "name":"Мохито-Вышня",
-        "avatar":"./МохитоВышня.webp",
-        "sostav":"Спрайт,Вышня,лёд",
-        "price":"35",
-         "status":false,
-          "title":"drinks"
+      "id": "11",
+      "name": "Мандаринный Мохито",
+      "avatar": "./мандарин.jpg",
+      "sostav": "Мандаринный Сироп",
+      "price": "20",
+      "status": false,
+      "title": "drinks"
     },
     {
-        "id":"14",
-        "name":"Шоколадный Мохито",
-        "avatar":"./шоколадныйКоктейл.webp",
-        "sostav":"Шоколад,лёд,сироп",
-        "price":"35",
-         "status":false,
-          "title":"drinks"
+      "id": "12",
+      "name": "Мохито Арбуз",
+      "avatar": "./АрбузЛимон.webp",
+      "sostav": "Арбуз,Лимон,лёд",
+      "price": "25",
+      "status": false,
+      "title": "drinks"
     },
     {
-        "id":"15",
-        "name":"Розовый Мохито",
-        "avatar":"./розовый.jpg",
-        "sostav":"Розовый сироп,лёд",
-        "price":"40",
-         "status":false,
-          "title":"drinks"
+      "id": "12",
+      "name": "Мохито-Виски",
+      "avatar": "./МохитоВиски.jpg",
+      "sostav": "Мохито-Виски,лёд",
+      "price": "35",
+      "status": false,
+      "title": "drinks"
     },
     {
-        "id":"16",
-        "name":"Имари",
-        "avatar":"./имари.jpg",
-        "sostav":"Сладкый тыка,фасол,крем",
-        "price":"75",
-         "status":false,
-         "title":"desert"
-         
+      "id": "13",
+      "name": "Мохито-Вышня",
+      "avatar": "./МохитоВышня.webp",
+      "sostav": "Спрайт,Вышня,лёд",
+      "price": "35",
+      "status": false,
+      "title": "drinks"
     },
     {
-        "id":"17",
-        "name":"Микки",
-        "avatar":"./Микки.jpg",
-        "sostav":"клубника,крем",
-        "price":"55",
-         "status":false,
-          "title":"desert"
+      "id": "14",
+      "name": "Шоколадный Мохито",
+      "avatar": "./шоколадныйКоктейл.webp",
+      "sostav": "Шоколад,лёд,сироп",
+      "price": "35",
+      "status": false,
+      "title": "drinks"
     },
     {
-        "id":"15",
-        "name":"Каррини",
-        "avatar":"./карини.jpg",
-        "sostav":"мёд,молоко,крем,фрукты",
-        "price":"75",
-         "status":false,
-          "title":"desert"
+      "id": "15",
+      "name": "Розовый Мохито",
+      "avatar": "./розовый.jpg",
+      "sostav": "Розовый сироп,лёд",
+      "price": "40",
+      "status": false,
+      "title": "drinks"
     },
     {
-        "id":"15",
-        "name":"Сладкый котлеть",
-        "avatar":"./desert.jpg",
-        "sostav":"сладкай греча,мёд,огурец",
-        "price":"65",
-         "status":false,
-          "title":"desert"
+      "id": "16",
+      "name": "Микки",
+      "avatar": "./Микки.jpg",
+      "sostav": "клубника,крем",
+      "price": "55",
+      "status": false,
+      "title": "desert"
     },
     {
-        "id":"15",
-        "name":"Фруктовый Напалеон",
-        "avatar":"./фруктовыйНапалеон.webp",
-        "sostav":"мука,сгушенка,фрукты,мёд,молоко",
-        "price":"45",
-         "status":false,
-          "title":"desert"
+      "id": "17",
+      "name": "Каррини",
+      "avatar": "./карини.jpg",
+      "sostav": "мёд,молоко,крем,фрукты",
+      "price": "75",
+      "status": false,
+      "title": "desert"
     },
     {
-        "id":"15",
-        "name":"Тирамису",
-        "avatar":"./тирамису.jpg",
-        "sostav":"японский крем,мука,фрукты,мёд",
-        "price":"85",
-         "status":false,
-          "title":"desert"
+      "id": "19",
+      "name": "Фруктовый Напалеон",
+      "avatar": "./фруктовыйНапалеон.webp",
+      "sostav": "мука,сгушенка,фрукты,мёд,молоко",
+      "price": "45",
+      "status": false,
+      "title": "desert"
     },
     {
-        "id":"15",
-        "name":"Японский Напаеонь",
-        "avatar":"./японскийНапалеон.jpg",
-        "sostav":"мука,мёд,вышня,крем",
-        "price":"55",
-         "status":false,
-          "title":"desert"
+      "id": "20",
+      "name": "Тирамису",
+      "avatar": "./тирамису.jpg",
+      "sostav": "японский крем,мука,фрукты,мёд",
+      "price": "85",
+      "status": false,
+      "title": "desert"
     },
     {
-        "id":"16",
-        "name":"Арабский пирог",
-        "avatar":"./арабский.jpg",
-        "sostav":"арабские фисташки,мука,мёд",
-        "price":"85",
-         "status":false,
-          "title":"desert"
+      "id": "21",
+      "name": "Японский Напаеонь",
+      "avatar": "./японскийНапалеон.jpg",
+      "sostav": "мука,мёд,вышня,крем",
+      "price": "55",
+      "status": false,
+      "title": "desert"
+    },
+    {
+      "id": "22",
+      "name": "Арабский пирог",
+      "avatar": "./арабский.jpg",
+      "sostav": "арабские фисташки,мука,мёд",
+      "price": "85",
+      "status": false,
+      "title": "desert"
+    },
+    {
+      "id": "18",
+      "name": "Сладкый котлеть",
+      "avatar": "./desert.jpg",
+      "sostav": "сладкай греча,мёд,огурец",
+      "price": "65",
+      "status": false,
+      "title": "desert"
+    },
+    {
+      "id": "54",
+      "name": "Каррини",
+      "avatar": "./карини.jpg",
+      "sostav": "мёд,молоко,крем,фрукты",
+      "price": "75",
+      "status": false,
+      "title": "desert"
     }
-    
-    
-
-]   
+  ]
 }

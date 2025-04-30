@@ -29,5 +29,39 @@ async function serchUser(value) {
     }
 }
 
+
+// delete
+async function deletUser(id) {
+    try {
+        let {data}=await axios.delete(`${API}/${id}`)
+        getData()
+    } catch (error) {
+        console.log(error);
+        
+    }
+}
+async function editUser(user) {
+ try {
+   let {data}=await axios.put(`${API}/${user.id}`,user)
+   getData()
+ } catch (error) {
+    console.log(error);
+    
+ }
+}
+
+
+// add
+async function add(user) {
+    try {
+        let {data}=await axios.post(API,user)
+        getData()
+    } catch (error) {
+        console.log(error);
+        
+
+    }
+}
+
 export default getData;
-export {serchUser,selectUser}
+export {serchUser,selectUser,deletUser,editUser,add}

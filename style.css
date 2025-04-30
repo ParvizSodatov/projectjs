@@ -2,16 +2,15 @@
     margin: 0;
 }
 .logo{
-    width: 150px;
-    height: 100px;
- border-radius: 100px;
+    width: 70px;
+    height: 60px;
+ border-radius: 70px;
 
 }
 body{
     background-color:rgb(132, 74, 32);
     color: white;
 }
-
 .navCatalog{
     list-style: none;
 
@@ -501,4 +500,27 @@ button:hover {
 .rating button:hover {
     background-color: #0056b3;
 }
+
+
+
+
+/* Основной стиль для диалогового окна */
+.dialogForEdit{
+    margin: auto;
+    border-radius: 10px;
+}
+.addNewProduct{
+    width: 90px;
+    height: 6vh;
+    color: black;
+    background-color: white ;
+    padding: -9000px;
+}
+.dialogForAdd{
+    margin: auto;
+}
+
+
+
+
 
