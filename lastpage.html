@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>Связаться с нами</title>
+</head>
+<body>
+
+    <nav>
+        <img src="./dd0f4717548efd56efd195813ee6c7e5.jpg" alt="" class="logo">
+        <ul class="navCatalog">
+            <li class="liNav"><a href="./index.html">О нас</a></li>
+            <li class="liNav"><a href="./secondPage.html">Меню</a></li>
+            <li class="liNav"><a href="./lastpage.html">Связаться с нами</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <!-- Связаться с нами -->
+        <section class="contact-section">
+            <h2>Связаться с нами</h2>
+            <div class="contact-info">
+                <p><strong>Адрес:</strong> ул. Мирзо Турсунзода, 123, Город Душанбе</p>
+                <p><strong>Телефон:</strong> +992 00 544 24 87</p>
+                <p><strong>Часы работы:</strong> с 10:00 до 22:00</p>
+            </div>
+
+            <form id="contact-form">
+                <h3>Отправить сообщение</h3>
+                <label for="name">Имя:</label>
+                <input type="text" id="name" name="name" placeholder="Ваше имя" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Ваш email" required>
+
+                <label for="message">Сообщение:</label>
+                <textarea id="message" name="message" rows="5" placeholder="Ваше сообщение" required></textarea>
+
+                <button type="submit">Отправить</button>
+            </form>
+        </section>
+
+        <!-- Оценки и отзывы -->
+        <section class="rating-section">
+            <h2>Оцените нас</h2>
+            <div class="rating">
+                <form id="rating-form">
+                    <label for="rating">Ваша оценка:</label>
+                    <select id="rating" name="rating" required>
+                        <option value="">Выберите оценку</option>
+                        <option value="1">1 - Плохо</option>
+                        <option value="2">2 - Удовлетворительно</option>
+                        <option value="3">3 - Хорошо</option>
+                        <option value="4">4 - Отлично</option>
+                        <option value="5">5 - Превосходно</option>
+                    </select>
+                    <textarea id="review" name="review" rows="4" placeholder="Ваш отзыв" required></textarea>
+                    <button type="submit">Оставить отзыв</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-container">
+            <!-- Информация о кафе -->
+            <div class="footer-info">
+                <h2>О кафе</h2>
+                <p>Адрес: ул. Мирзо Турсунзода, 123, Город Душанбе</p>
+                <p>Телефон: +992 00 544 24 87</p>
+                <p>Часы работы: с 10:00 до 22:00</p>
+            </div>
+    
+            <!-- Быстрые ссылки -->
+            <div class="footer-links">
+                <h2>Быстрые ссылки</h2>
+                <ul>
+                    <li><a href="#">О нас</a></li>
+                    <li><a href="#">Меню</a></li>
+                    <li><a href="#">Контакты</a></li>
+                    <li><a href="#">Доставка</a></li>
+                </ul>
+            </div>
+    
+            <!-- Социальные сети -->
+            <div class="footer-social">
+                <h2>Следите за нами</h2>
+                <div class="social-icons">
+                    <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+                    <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+    
+    
+            <div class="footer-subscription">
+                <h2>Подпишитесь на новости</h2>
+                
+                    <input class="inpp" type="email" placeholder="Ваш email" required>
+                  
+             
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Кафе "Unagi". Все права защищены.</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="./contact.js"></script>
+</body>
+</html>

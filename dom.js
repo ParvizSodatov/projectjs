@@ -1,8 +1,9 @@
 let box=document.querySelector(".box")
 // import { selectUser } from "./api.js";
-import { serchUser } from "./api.js";
+import { serchUser,selectUser } from "./api.js";
 
 function get(data){
+    box.innerHTML=''
     data.forEach(element => {
         let conteiner=document.createElement("div")
         conteiner.classList.add("conteiner")
@@ -33,10 +34,10 @@ export default get;
 
 
 // select
-// let selectTitle=document.querySelector(".selectTitle")
-// // selectTitle.onclick=()=>{
-// //     selectUser(selectTitle.value=="sushi"?sushi: selectTitle.value=="drinks"?drinks:selectTitle.value=="desert"?desert:"")
-// // }
+let selectTitle=document.querySelector(".selectTitle")
+selectTitle.onclick=()=>{
+    selectUser(selectTitle.value)
+}
 
 
 // search
