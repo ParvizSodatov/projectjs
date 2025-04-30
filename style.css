@@ -408,3 +408,14 @@ p {
 .editBtn:hover {
     color: #e67e22;
 }
+
+.selectSearch{
+    display: flex;
+    justify-content: space-around;
+}
+.selectSearch input{
+    padding: 10px 20px;
+}
+.selectSearch select{
+    padding: 10px 20px;
+}

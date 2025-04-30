@@ -3,192 +3,217 @@
         "id":"1",
         "name":"Суши ласос",
         "sostav":"ласось сыр огурец",
-        "avatar":"./sushi.webp",
+        "avatar":"./lasos.webp",
         "price":"45",
-         "status":false
+         "status":false,
+         "title":"sushi"
+         
     },
     {
         "id":"2",
-        "name":"Суши ласос",
-        "sostav":"ласось сыр огурец",
-        "avatar":"./sushi.webp",
-        
-        "price":"45",
-         "status":false
+        "name":"Ролл канада",
+        "sostav":"угорь сыр огурец",
+        "avatar":"./canada.avif",
+        "price":"50",
+         "status":false,
+         "title":"sushi"
     },
     {
         "id":"3",
-        "name":"Суши ласос",
-        "avatar":"./sushi.webp",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Ролл Нью Йорк",
+        "avatar":"./newYourk.webp",
+        "sostav":"Авокадо сыр огурец",
+        "price":"60",
+         "status":false,
+         "title":"sushi"
     },
     {
         "id":"4",
-        "name":"Суши ласос",
-        "avatar":"./sushi.webp",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Суши тунец",
+        "avatar":"./тунец.webp",
+        "sostav":"тунец, рысь, огурец",
+        "price":"30",
+         "status":false,
+         "title":"sushi"
     },
     {
         "id":"5",
-        "name":"Суши ласос",
-        "avatar":"./sushi.webp",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Ролл креветка",
+        "avatar":"./креветка.webp",
+        "sostav":"креветка сыр огурец",
+        "price":"65",
+         "status":false,
+         "title":"sushi"
     }, {
         "id":"6",
-        "name":"Суши ласос",
-        "avatar":"./sushi.webp",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Ролл с икрой",
+        "avatar":"./икра.jpg",
+        "sostav":"икра,сыр,огурец,курица",
+        "price":"50",
+         "status":false,
+         "title":"sushi"
     },
  {
         "id":"7",
-        "name":"Суши ласос",
-        "avatar":"./sushi.webp",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Ролл темпура",
+        "avatar":"./роллтемпура.webp",
+        "sostav":"Жареный ласось сыр огурец",
+        "price":"75",
+         "status":false,
+         "title":"sushi"
     },
     {
         "id":"8",
-        "name":"Суши ласос",
-        "avatar":"./sushi.webp",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Ролл запеченный",
+        "avatar":"./запеченый.webp",
+        "sostav":"Курыца,сыр,огурец,сыр-голландский",
+        "price":"40",
+         "status":false,
+         "title":"sushi"
     },
     {
         "id":"9",
-        "name":"Сok",
-        "avatar":"./cok.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Мохито Lemon",
+        "avatar":"./mokhito.webp",
+        "sostav":"Лемонный сироп,лёд,спрайт ",
+        "price":"20",
+         "status":false,
+         "title":"drinks"
     },
     {
         "id":"10",
-        "name":"Сok",
-        "avatar":"./cok.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Клубныйчий Мохито",
+        "avatar":"./клубника.jpg",
+        "sostav":"клубнычный сироп,лёд,спрайт",
+        "price":"25",
+         "status":false,
+          "title":"drinks"
     },
     {
         "id":"11",
-        "name":"Сok",
-        "avatar":"./cok.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Мандаринный Мохито",
+        "avatar":"./мандарин.jpg",
+        "sostav":"Мандаринный Сироп",
+        "price":"20",
+         "status":false,
+          "title":"drinks"
     },{
         "id":"12",
-        "name":"Сok",
-        "avatar":"./cok.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Мохито Арбуз",
+        "avatar":"./АрбузЛимон.webp",
+        "sostav":"Арбуз,Лимон,лёд",
+        "price":"25",
+         "status":false,
+          "title":"drinks"
     },
     {
         "id":"12",
-        "name":"Сok",
-        "avatar":"./cok.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Мохито-Виски",
+        "avatar":"./МохитоВиски.jpg",
+        "sostav":"Мохито-Виски,лёд",
+        "price":"35",
+         "status":false,
+          "title":"drinks"
     },
     {
         "id":"13",
-        "name":"Сok",
-        "avatar":"./cok.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Мохито-Вышня",
+        "avatar":"./МохитоВышня.webp",
+        "sostav":"Спрайт,Вышня,лёд",
+        "price":"35",
+         "status":false,
+          "title":"drinks"
     },
     {
         "id":"14",
-        "name":"Сok",
-        "avatar":"./cok.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Шоколадный Мохито",
+        "avatar":"./шоколадныйКоктейл.webp",
+        "sostav":"Шоколад,лёд,сироп",
+        "price":"35",
+         "status":false,
+          "title":"drinks"
     },
     {
         "id":"15",
-        "name":"Сok",
-        "avatar":"./cok.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Розовый Мохито",
+        "avatar":"./розовый.jpg",
+        "sostav":"Розовый сироп,лёд",
+        "price":"40",
+         "status":false,
+          "title":"drinks"
     },
     {
         "id":"16",
-        "name":"Сok",
-        "avatar":"./desert.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Имари",
+        "avatar":"./имари.jpg",
+        "sostav":"Сладкый тыка,фасол,крем",
+        "price":"75",
+         "status":false,
+         "title":"desert"
+         
     },
     {
         "id":"17",
-        "name":"Сok",
-        "avatar":"./desert.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Микки",
+        "avatar":"./Микки.jpg",
+        "sostav":"клубника,крем",
+        "price":"55",
+         "status":false,
+          "title":"desert"
     },
     {
         "id":"15",
-        "name":"Сok",
-        "avatar":"./desert.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Каррини",
+        "avatar":"./карини.jpg",
+        "sostav":"мёд,молоко,крем,фрукты",
+        "price":"75",
+         "status":false,
+          "title":"desert"
     },
     {
         "id":"15",
-        "name":"Сok",
+        "name":"Сладкый котлеть",
         "avatar":"./desert.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "sostav":"сладкай греча,мёд,огурец",
+        "price":"65",
+         "status":false,
+          "title":"desert"
     },
     {
         "id":"15",
-        "name":"Сok",
-        "avatar":"./desert.jpg",
-        "sostav":"ласось сыр огурец",
+        "name":"Фруктовый Напалеон",
+        "avatar":"./фруктовыйНапалеон.webp",
+        "sostav":"мука,сгушенка,фрукты,мёд,молоко",
         "price":"45",
-         "status":false
+         "status":false,
+          "title":"desert"
     },
     {
         "id":"15",
-        "name":"Сok",
-        "avatar":"./desert.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Тирамису",
+        "avatar":"./тирамису.jpg",
+        "sostav":"японский крем,мука,фрукты,мёд",
+        "price":"85",
+         "status":false,
+          "title":"desert"
     },
     {
         "id":"15",
-        "name":"Сok",
-        "avatar":"./desert.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Японский Напаеонь",
+        "avatar":"./японскийНапалеон.jpg",
+        "sostav":"мука,мёд,вышня,крем",
+        "price":"55",
+         "status":false,
+          "title":"desert"
     },
     {
         "id":"16",
-        "name":"Сok",
-        "avatar":"./desert.jpg",
-        "sostav":"ласось сыр огурец",
-        "price":"45",
-         "status":false
+        "name":"Арабский пирог",
+        "avatar":"./арабский.jpg",
+        "sostav":"арабские фисташки,мука,мёд",
+        "price":"85",
+         "status":false,
+          "title":"desert"
     }
     
     

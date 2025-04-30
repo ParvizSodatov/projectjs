@@ -1,6 +1,6 @@
 let box=document.querySelector(".box")
-
-
+// import { selectUser } from "./api.js";
+import { serchUser } from "./api.js";
 
 function get(data){
     data.forEach(element => {
@@ -30,3 +30,17 @@ conteiner.append(avatar,name,sostav,price,divForButton)
     });
 }
 export default get;
+
+
+// select
+// let selectTitle=document.querySelector(".selectTitle")
+// // selectTitle.onclick=()=>{
+// //     selectUser(selectTitle.value=="sushi"?sushi: selectTitle.value=="drinks"?drinks:selectTitle.value=="desert"?desert:"")
+// // }
+
+
+// search
+let inpSearch=document.querySelector(".inpSearch")
+inpSearch.oninput=()=>{
+    serchUser(inpSearch.value.trim())
+}
